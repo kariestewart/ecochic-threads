@@ -9,7 +9,7 @@ body {
   
   /* Hero Section with Background Image */
 header.hero {
-background-image: url('https://kariestewart.github.io/ecochic-threads/images/hero.jpg');
+background-image: url('images/hero.jpg');
 
 
     background-size: cover;
