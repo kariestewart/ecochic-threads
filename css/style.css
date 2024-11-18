@@ -13,7 +13,7 @@ background-image: url('images/hero.jpg');
 
     background-size: cover;
     background-position: center;
-    height: 300px; /* Adjust the height of the hero section */
+    height: 300px !important; /* Adjust the height of the hero section */
     color: white;
     text-align: center;
     display: flex;
